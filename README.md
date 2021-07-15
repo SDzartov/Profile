@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SDzartov
+- 👋 Hi, I’m @ShaneD
 - 👀 I’m interested in Machine Learning & Automation.
 - 🌱 I’m currently studying a Masters of Science: Artificial intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on web-based automation tools.  
